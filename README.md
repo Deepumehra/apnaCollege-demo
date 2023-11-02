@@ -1,4 +1,4 @@
 # apnaCollege-demo
 this repo is awesome and first repo
 </br>
-author-deepu
+author-deepu mehra
